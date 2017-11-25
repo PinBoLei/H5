@@ -1,0 +1,40 @@
+body,form,input,h3,textarea{margin: 0; padding: 0;}
+input{
+	width:222px;
+	height:27px;
+	border: 0;
+	line-height: 27px;
+	color:#bab8c5;
+	font-size: 13px;
+	font-style: italic;
+	padding-left: 5px;
+	float: right;
+	margin: 7px 69px 0 0;
+	}
+div{
+	width: 468px;
+	background: #9cbc2b;
+	border: 1px solid #fff;
+	margin: 0 auto;
+}
+div .head{
+	width: 424px;
+	margin: 0 auto;
+	margin-top: 22px;
+}
+div h3{
+	color: #000;
+	font-size: 17px;
+}
+form{
+	width: 425px;
+	margin: 0 auto;
+}
+form p{
+	width: 417px;
+	height: 43px;
+	line-height: 43px;
+	background: #bad06b;
+	border: 2px solid #fff;
+}
+form label{margin-left: 10px;}

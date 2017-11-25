@@ -1,0 +1,92 @@
+*{margin: 0; padding: 0;}
+body{background: #cccccc;}
+section{
+	width: 897px;
+	overflow: hidden;
+	border: 2px solid #fff;
+	margin: 100px auto 0;
+	}
+header{
+	width: 897px;
+	height: 82px;
+	background: #f47d31;
+	color: #fff;
+	font-size: 54px;
+	text-align: center;
+	line-height: 82px;
+}
+article{
+	width: 897px;
+	height: 440px;
+	background: #888888;
+	overflow: hidden;
+}
+nav{
+	width: 206px;
+	height: 226px;
+	float: left;
+	text-align: center;
+	margin-left: 10px;
+}
+nav h3{color: #fff;}
+nav p{
+	height: 50px;
+	text-align: left;
+	text-indent: 10px;
+	color: #F47D31;
+	border-bottom:2px solid #fff ;
+	line-height: 50px;
+	}
+article .body{
+	width: 452px;
+	float: left;
+	margin: 10px 0 0 10px;
+	overflow: hidden;
+}
+article .body .body_1,.body_2{
+	width: 452px;
+	height: 221px;
+	background: #eeeeee;
+	overflow: hidden;
+}
+article .body .body_1{margin-bottom: 10px;}
+article .body .body_2{height:167px ;}
+article .body .arti1,.arti3{
+	width: 430px;
+	height: 30px;
+	background: #F47D31;
+	color: #fff;
+	font-size: 18px;
+	line-height: 30px;
+	margin: 10px;
+}
+article .body .arti2{
+	color:#000;
+	font-size: 13px;
+	margin: 10px 10px;
+	line-height: 18px;
+}
+article .body .arti3{
+	text-align: center;
+}
+aside{
+	width: 205px;
+	float: right;
+	overflow: hidden;
+}
+aside h3{
+	color:#fff;
+	text-align: center;
+}
+aside span{
+	color:#fff;
+	font-size: 13px;
+}
+footer{
+	width: 897px;
+	height: 80px;
+	background: #F47D31;
+	text-align: center;
+	color: #fff;
+	font-size: 54px;
+}
