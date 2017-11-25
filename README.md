@@ -84,9 +84,12 @@ Aside表示acticle元素的内容之外的，与article元素的内容相关的�
 ```
 定义视频，比如电影片段或其他视频流
 <video src="路径地址" controls>您的浏览器不支持video</video>
+
 video允许有多个source元素，source元素可以连接不同的视频文件，浏览器将使用第一个可识别的格式进行播放
 <source src="video.ogg" type="video/ogg"/><source src="video.webm"  type="video/webm"/>
+
 提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。
+
 param 元素允许您为插入 XHTML 文档的对象规定 run-time 设置，也就是说，此标签可为包含它的 <object> 标签提供参数。
 <param name="BorderStyle" value="1" />   name 定义参数的名称（用在脚本中）。
 ```
